@@ -51,7 +51,7 @@ I'm open to freelance work, especially:
 - 🌍 Website: [nextbek.site](https://nextbek.site)
 - 💼 LinkedIn: [jurabek-norqulov](https://www.linkedin.com/in/jurabek-norqulov-7703a5449)
 - ✈️ Telegram: [@jurabek_bekk](https://t.me/jurabek_bekk)
-- 📸 Instagram: [@beckdev](https://www.instagram.com/beckdev) · [@nextbek_uz](https://www.instagram.com/nextbek_uz)
+- 📸 Instagram: [@bekhdev](https://www.instagram.com/bekhdev) · [@nextbek_uz](https://www.instagram.com/nextbek_uz)
 
 <p align="center">
   <i>Thanks for stopping by! If you have a project in mind, let's talk.</i>
